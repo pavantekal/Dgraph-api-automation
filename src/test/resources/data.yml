@@ -1,0 +1,6 @@
+host: https://dummy.restapiexample.com
+Employee : /api/v1/employee
+Update: /api/v1/update
+allEmployees: /api/v1/employees
+createEmployee: /api/v1/create
+Delete: /api/v1/delete
